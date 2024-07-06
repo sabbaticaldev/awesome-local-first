@@ -23,11 +23,15 @@ A list of projects built following the [local-first concept](https://www.inkands
 - [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop): Customizable personal knowledge-base with git as backup manager.
 - [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5): A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc, works in local-first.
 - [Volon](https://github.com/danielgolden/volon): Volón is a plain text, markdown-focused, local-first notes app with text-editing keyboard shortcuts.
+
+  
+## Frameworks
+
 - [DIPLOMATIC](https://diplomatic-docs.replit.app/docs/#quickstart): A framework for going from zero-to-lofi. Can bootstrap a simple app in a few terminal commands. Example of how auth and sync work [here](https://diplomatic-docs.replit.app/docs/demos/status.html).
 - [Verdant](https://github.com/a-type/verdant): An interesting framework for local-first applications.
 - [Socket Supply](https://socketsupply.co/): A framework for building local-first applications.
 
-*Libraries*
+## Libraries
 
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
