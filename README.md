@@ -13,9 +13,6 @@ A collection of awesome local-first projects including offline-first and collabo
 - [Verifying strong eventual consistency in distributed systems](https://dl.acm.org/doi/10.1145/3133933), Victor B. F. Gomes, Martin Kleppmann, Dominic P. Mulligan, Alastair R. Beresford
  
 ## Applications
-A list of projects built following the [local-first concept](https://www.inkandswitch.com/local-first/)
-
-*Projects*
 
 - [Actual](https://actualbudget.com): Actual is a super fast privacy-focused app for managing your finances
 - [AFFiNE](https://affine.pro): AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
