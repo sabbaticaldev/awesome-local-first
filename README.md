@@ -29,7 +29,7 @@ A collection of awesome local-first projects including offline-first and collabo
 - [Socket Supply](https://socketsupply.co/): A framework for building local-first applications.
 
 ## Libraries
-
+- [Radicle](https://radicle.xyz/) - open source, peer-to-peer code collaboration stack built on Git
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
 
